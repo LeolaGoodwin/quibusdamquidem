@@ -1,0 +1,31 @@
+{
+  "name": "quibusdamquidem",
+  "version": "1.0.0",
+  "description": "Single value and summary metrics",
+  "license": "MIT",
+  "author": "ColleenLedner",
+  "scripts": {
+    "test": "standard && hallmark && node test"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "devDependencies": {
+    "hallmark": "^3.1.0",
+    "standard": "^14.3.4",
+    "tape": "^4.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeolaGoodwin/quibusdamquidem.git"
+  },
+  "keywords": [
+    "metrics",
+    "suscipit",
+    "et"
+  ],
+  "engines": {
+    "node": ">=6"
+  }
+}
